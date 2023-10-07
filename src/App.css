@@ -195,6 +195,11 @@ background: #9E3040;
 box-shadow: 0px 0px 10px 0px rgba(158, 48, 64, 0.17);
 padding: 10px 28px;
 border: transparent;
+cursor: pointer;
+transition:  all .2s linear;
+}
+.show_btn:hover{
+  box-shadow: 0px 5px 10px #9E3040;
 }
 .glass_hover {
   position: relative;

@@ -101,7 +101,7 @@ function App() {
         </div>
       </div>
       <div className="text-center">
-      <button className="show_btn ff_hind fs_md fw_semibold lh_normal text_white mt_50 mb_29">SHOW MORE</button>
+      <button className="show_btn ff_hind fs_md fw_semibold lh_normal text_white mt_50 mb_29 glass_hover">SHOW MORE</button>
       </div>
     </div>
   );
